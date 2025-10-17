@@ -1,0 +1,11 @@
+release/Finish.o
+release/form.o
+release/hello.o
+release/main.o
+release/play.o
+release/registration.o
+release/moc_Finish.o
+release/moc_form.o
+release/moc_hello.o
+release/moc_play.o
+release/moc_registration.o

@@ -1,0 +1,11 @@
+debug/Finish.o
+debug/form.o
+debug/hello.o
+debug/main.o
+debug/play.o
+debug/registration.o
+debug/moc_Finish.o
+debug/moc_form.o
+debug/moc_hello.o
+debug/moc_play.o
+debug/moc_registration.o
